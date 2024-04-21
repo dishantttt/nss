@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.833ffd84.css",
+    "main.js": "/static/js/main.be11f81f.js",
+    "static/js/453.b421dfcf.chunk.js": "/static/js/453.b421dfcf.chunk.js",
+    "static/media/iitg2.jpeg": "/static/media/iitg2.a1a27958329615f787eb.jpeg",
+    "static/media/new.gif": "/static/media/new.4ea0fb78632c2253dcea.gif",
+    "static/media/banner.jpg": "/static/media/banner.01a49843eb7f4a6e12d0.jpg",
+    "static/media/twitter.png": "/static/media/twitter.5d83fe20a1fcd119ef27.png",
+    "static/media/main-gate.jpg": "/static/media/main-gate.dcfa8529c632e1fed8c1.jpg",
+    "static/media/logo.png": "/static/media/logo.e533a581e14afe81120c.png",
+    "index.html": "/index.html",
+    "main.833ffd84.css.map": "/static/css/main.833ffd84.css.map",
+    "main.be11f81f.js.map": "/static/js/main.be11f81f.js.map",
+    "453.b421dfcf.chunk.js.map": "/static/js/453.b421dfcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.833ffd84.css",
+    "static/js/main.be11f81f.js"
+  ]
+}
